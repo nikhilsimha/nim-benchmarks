@@ -1,7 +1,7 @@
 # nim-benchmarks
 Benchmarks comparing Nim and other languages based on [Programming-Language-Benchmarks](https://programming-language-benchmarks.vercel.app/) by [hanabi1224](https://github.com/hanabi1224/Programming-Language-Benchmarks).
 
-I believe there are quite a few opportunities to improve the benchmarks for nim, but I couldn't figure out how to change the original repo. 
+I believe there are quite a few opportunities to improve the benchmarks for nim. I aim to eventually merge these changes back into the original repo. 
 
 ## Do these benchmarks matter for real-world scenarios?
 
